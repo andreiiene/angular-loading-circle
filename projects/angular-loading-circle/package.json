@@ -1,0 +1,19 @@
+{
+  "name": "angular-loading-circle",
+  "version": "1.0.4",
+  "description": "Beautiful spinning circle that you can load on screen while waiting for data (subscription) to return from api call",
+  "module": "public-api.ts",
+  "main": "public-api.ts",
+  "keywords": [
+    "async",
+    "spinner",
+    "loading circle",
+    "async spinner"
+  ],
+  "author": "Andrei En",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  }
+}
